@@ -1,7 +1,7 @@
 {
     "name": "AL-LUMERY FOOD & BEVERAGE",
     "short_name": "allumery_lampung",
-    "start_url": "/",
+    "start_url": "/food/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
